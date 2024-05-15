@@ -1,5 +1,5 @@
-# Name:priyanka R
-# ref no: 21223220081
+# Name: SHEETAL.R
+# ref no: 212223230206
 # Linux-F ile-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
@@ -77,10 +77,9 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/priyankaarrr/Linux-File-IO-Systems-locking/assets/147475464/274b5b15-d205-4906-adce-0491a9cc716e)
+![image](https://github.com/Sheetalshee/Linux-File-IO-Systems-locking/assets/144979107/69fa50e0-1a39-4dfe-b4c8-fa33197b313e)
+![image](https://github.com/Sheetalshee/Linux-File-IO-Systems-locking/assets/144979107/fba13e19-b14e-485f-a0f2-0faf4df8af3e)
 
-
-![image](https://github.com/priyankaarrr/Linux-File-IO-Systems-locking/assets/147475464/09df6cca-d39f-4665-b5e2-e0a7d5e9f12d)
 
 
 RESULT:
