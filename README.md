@@ -1,5 +1,4 @@
-# Name: SHEETAL.R
-# ref no: 212223230206
+
 # Linux-F ile-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
@@ -75,6 +74,8 @@ int main() {
 
     exit(0);
 }
+# Name: SHEETAL.R
+# ref no: 212223230206
 ```
 ## OUTPUT:
 ![image](https://github.com/Sheetalshee/Linux-File-IO-Systems-locking/assets/144979107/69fa50e0-1a39-4dfe-b4c8-fa33197b313e)
